@@ -1,0 +1,105 @@
+html {
+ background-image: url(https://coub-anubis-a.akamaized.net/coub_storage/coub/simple/cw_image/e4e81295ee0/8a3ee61d88886733df3a7/1504586196_00032.jpg);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-attachment: fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+    justify-content: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+    justify-content: center;
+}
+
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ffffffcd;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+.flex {
+  width: 500px;
+  margin: 0 auto;
+  background-color: # white;
+  padding: 20px 30px 20px 30px;
+  border: 1px solid black;
+}
+
+.flex-container {
+  width: 500px;
+  margin: 0 auto;
+  background-color: n;
+  padding: 20px 30px 20px 30px;
+  border: 1px solid black;
+}
+
+.shop {
+  width: 500px;
+  margin: 20px auto;
+  background-color: n;
+    padding: 20px 30px 30px 30px;
+  padding-bottom: 20px;
+  border: 1px solid black;
+}
+
+.balance {
+  padding-top: 20px;
+}
+
+.vcat {
+border: 1px solid black;
+background-color: #9a9fb881;
+}
+
+div {
+  background-color: #8489a1de;
+  margin: auto;
+  text-align: center;
+}
+
+.lvl {
+  padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.char {
+  padding: 10px 10px 10px 10px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.luv {
+  text-align: center;
+  margin: auto;
+  border: 1px solid grey;
+}
+
+p { text-align: center }
+h1 { text-align: center }
+
+
+html {
+  font-size: 15px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Marmelad', sans-serif;
+}
+
+button {
+  background-color: #ffffff81;
+}
+
+<h1>Alien: I love my cat</h1> <strong>Уровень вашего котика:</strong>
+<strong>Характеристики вашего котика:</strong>
